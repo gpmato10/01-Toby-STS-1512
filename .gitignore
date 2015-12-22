@@ -91,3 +91,6 @@ dependency-reduced-pom.xml
 *.idea
 
 README.html
+
+# target
+**/target/*
